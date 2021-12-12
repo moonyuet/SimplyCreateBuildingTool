@@ -42,6 +42,15 @@ The screenshot below shows the panel after hitting the shelf button
 
 **Duplicate Floor**: Duplicate the floor based on **Height Section**.
 
+# Before Using the Plugin(Must Read)
+***Make sure the pivot set to the corner of the modular piece(see the screencapture below), otherwise the building can't successfully be constructed.
+
+![alt text](https://github.com/moonyuet/SimplyCreateBuildingTool/blob/main/SimplyCreateBuildingTool/img/screenCapture/facade_pivot.png?raw=true)
+
+***Make sure you snapped locators on the corners of the mesh so that it can accurately measure the width and the height. 
+
+For more information on how to use the Plugin, please look at the video I made: https://youtu.be/ZGeDDpOOSrI
+
 # Future Goal
 I will add one more feature after this release, meaning that version 2.0 will be around in the future.
 The feature allows the users to select the certain modular pieces and delete them. The user can add other different modular pieces to the deleted area and makes the building more believable. 
