@@ -20,6 +20,6 @@ def plugin_shelf():
     cmds.shelfLayout(MENU, parent="ShelfLayout")
     cmds.shelfButton(parent=MENU, annotation='CreateBuildingTool',
                      image1=IMG_PATH + "shelf_logo.png",
-                     command='import group_dialog;reload(group_dialog);group_dialog = GroupDialog(); group_dialog.show();')
+                     command='import group_dialog;reload(group_dialog);group_dialog = group_dialog.GroupDialog(); group_dialog.show();')
                      
 plugin_shelf()
