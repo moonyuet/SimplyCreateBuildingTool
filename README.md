@@ -19,7 +19,7 @@ A Maya Plugin briefly helps to create a building within a minute. This plugin ta
 
 ![alt text](https://github.com/moonyuet/SimplyCreateBuildingTool/blob/main/SimplyCreateBuildingTool/img/screenCapture/maya_shelf_screencap.png?raw=tr)
 
-# Step
+# Plugin Panel
 The screenshot below shows the panel after hitting the shelf button
 
 ![alt text](https://github.com/moonyuet/SimplyCreateBuildingTool/blob/main/SimplyCreateBuildingTool/img/screenCapture/layout_screencap.png?raw=true)
